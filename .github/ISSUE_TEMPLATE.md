@@ -12,7 +12,6 @@
   capturas de tela, se necessário. Por favor, teste usando a versão mais recente para certificar-se de que seu problema ainda não foi corrigido.
 -->
 
-
 ## Passos para reproduzir
 
 1.
@@ -24,9 +23,6 @@
 **Acesso do usuario:** 
 - descreva qual é o usuario de acesso
 
-
-**Evidência obtida:** 
-- Insira evidências para ajudar na identificação.
 
 
 ## Comportamento atual
