@@ -1,12 +1,8 @@
 # Descreva os itens abaixo para simular o mesmo cenário
 
----
-nome: "🐛 Bug Report"
-sobre: Report a reproducible bug or regression.
-titulo: 'Bug: '
-labels: 'Status: Não confirmado'
-
----
+| Nome  |  Sobre  | title  | labels  |
+| ------------------- | ------------------- | ------------------- | ------------------- |
+|  🐛 Bug Report |  Report a reproducible bug or regression. | Bug:  | Status: Unconfirmed |
 
 **Versão:**
 - descreve a versão do aplicativo que está utilizando
